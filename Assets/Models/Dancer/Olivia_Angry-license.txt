@@ -1,0 +1,16 @@
+http://dancedb.eu/
+
+
+Terms of Use
+We are very glad to hear from people using our data! If you do use our data, please send us an email at: dancedb@cs.ucy.ac.cy
+
+Please note that your project or product utilizing any of our data should clearly indicate that. We have spent countless hours creating and maintaining this dataset and made it available free for everyone to use, so we kindly ask that you acknowledge our work:
+
+Scientists and Researchers: Please look at our related publications and cite any relevant work.
+For any other type of use please insert the following (or similar) text: Motion capture data used in this work were obtained from http://dancedb.cs.ucy.ac.cy, the Dance Motion Capture Database of the University of Cyprus.
+
+
+Copyrights
+All data in this website are licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License. The data is free to use in research and you may include the data in commercially-sold products, but you may not resell this data directly, even in converted form.
+
+Please also respect our Terms of Use above.
